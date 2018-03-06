@@ -1,1 +1,12 @@
 https://wenku.baidu.com/view/3e08150527d3240c8447efdb.html
+
+USB CAN 互转模块不仅可以转换传输，还可以用于调试CAN总线上的数据。
+usbtinviewer
+
+一篇关于CAN总线如何和树莓派链接的文章
+https://www.raspberrypi.org/forums/viewtopic.php?t=141052
+相似文章
+https://harrisonsand.com/can-on-the-raspberry-pi/
+
+GITHUB 软件资源
+https://github.com/linux-can

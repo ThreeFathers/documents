@@ -12,6 +12,15 @@ https://item.taobao.com/item.htm?spm=a230r.1.14.1.370f31f1vqB4oT&id=520314526947
 ## TJA1050 5v
 https://item.taobao.com/item.htm?spm=a230r.1.14.33.57f13a2eh7Mlwf&id=40829124050&ns=1&abbucket=1#detail
 
-边缘计算模块选用
+## 控制器
+MCP2515
+
+## MCU
+Arduino模块，16MHZ
+https://github.com/autowp/arduino-mcp2515
+小板采购地址：
+https://detail.tmall.com/item.htm?spm=a230r.1.14.1.158783eex96qwq&id=45823224665&cm_id=140105335569ed55e27b&abbucket=1
+
+边缘计算如果Arduino性能不够，模块选用
 ## ESP32
 https://detail.tmall.com/item.htm?spm=a230r.1.14.33.711c64ac1wuFF2&id=560391189735&ns=1&abbucket=1
