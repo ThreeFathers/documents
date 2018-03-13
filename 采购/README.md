@@ -17,9 +17,12 @@ MCP2515
 
 ## MCU
 Arduino模块，16MHZ
+发音【Arr du ee no】[a:du'i:nəʊ]
 https://github.com/autowp/arduino-mcp2515
 小板采购地址：
 https://detail.tmall.com/item.htm?spm=a230r.1.14.1.158783eex96qwq&id=45823224665&cm_id=140105335569ed55e27b&abbucket=1
+开发板（可能也可以替代小板）：
+https://item.taobao.com/item.htm?_u=6pj980q7abf&id=563399699687
 
 边缘计算如果Arduino性能不够，模块选用
 ## ESP32
